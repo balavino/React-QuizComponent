@@ -1,4 +1,3 @@
-export default Quiz
 import React, { Component } from 'react'
 import QuizQuestion from './QuizQuestion.js'
 
